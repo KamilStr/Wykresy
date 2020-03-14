@@ -1,0 +1,9 @@
+D:\Programy\Semestr VI\KolejneWykresy\bin\Debug\KolejneWykresy.exe.config
+D:\Programy\Semestr VI\KolejneWykresy\bin\Debug\KolejneWykresy.exe
+D:\Programy\Semestr VI\KolejneWykresy\bin\Debug\KolejneWykresy.pdb
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.csprojResolveAssemblyReference.cache
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.Form1.resources
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.Properties.Resources.resources
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.csproj.GenerateResource.Cache
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.exe
+D:\Programy\Semestr VI\KolejneWykresy\obj\Debug\KolejneWykresy.pdb
